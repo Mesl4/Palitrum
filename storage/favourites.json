@@ -1,0 +1,33 @@
+﻿[
+  {
+    "sourceType": "palette",
+    "sourceProjectId": "project-001",
+    "sourceProjectName": "Abstract Landscape",
+    "paletteId": "palette-001",
+    "paletteName": "Ocean Sunset",
+    "modifiedDate": "2026-03-10",
+    "addedDate": "2026-05-10",
+    "colors": [
+      "#FF6B6B",
+      "#4ECDC4",
+      "#45B7D1",
+      "#96CEB4",
+      "#FFEAA7"
+    ]
+  },
+  {
+    "sourceType": "palette",
+    "sourceProjectId": "project-002",
+    "sourceProjectName": "Matrix Rain Concept",
+    "paletteId": "palette-003",
+    "paletteName": "Cyberpunk Neon",
+    "modifiedDate": "2026-04-05",
+    "addedDate": "2026-05-15",
+    "colors": [
+      "#00F5FF",
+      "#FF007F",
+      "#9B00FF",
+      "#00FF66"
+    ]
+  }
+]

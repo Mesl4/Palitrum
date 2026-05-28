@@ -1,0 +1,24 @@
+﻿{
+  "palettes": [
+    {
+      "title": "Ocean Sunset",
+      "publishedAt": "2026-05-20T10:00:00Z",
+      "colors": ["FF6B6B", "4ECDC4", "45B7D1", "96CEB4", "FFEAA7"]
+    },
+    {
+      "title": "Forest Whisper",
+      "publishedAt": "2026-05-21T12:00:00Z",
+      "colors": ["2D4263", "C84B31", "ECDBBA", "191A19", "557B83"]
+    },
+    {
+      "title": "Cyberpunk Neon",
+      "publishedAt": "2026-05-22T08:00:00Z",
+      "colors": ["00F5FF", "FF007F", "9B00FF", "00FF66"]
+    },
+    {
+      "title": "Sunrise Bloom",
+      "publishedAt": "2026-05-22T15:30:00Z",
+      "colors": ["FF9A8B", "FF6A88", "FF99AC", "FFC3A0"]
+    }
+  ]
+}

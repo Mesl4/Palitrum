@@ -1,0 +1,49 @@
+﻿[
+  {
+    "id": "project-001",
+    "name": "Abstract Landscape",
+    "createdDate": "2026-03-20",
+    "modifiedDate": "2026-05-01",
+    "popularity": 128,
+    "perlinSeed": 42,
+    "gridSize": 20,
+    "threshold": 0.5,
+    "dotColor": "#333333",
+    "backgroundColor": "#F0F0F0",
+    "patternType": "dots",
+    "colors": ["#FF6B6B", "#4ECDC4", "#45B7D1"],
+    "palettes": [
+      {
+        "paletteId": "palette-001",
+        "position": { "x": 100, "y": 200 },
+        "scale": 1.5
+      },
+      {
+        "paletteId": "palette-002",
+        "position": { "x": 400, "y": 150 },
+        "scale": 1.0
+      }
+    ]
+  },
+  {
+    "id": "project-002",
+    "name": "Matrix Rain Concept",
+    "createdDate": "2026-04-18",
+    "modifiedDate": "2026-05-12",
+    "popularity": 64,
+    "perlinSeed": 777,
+    "gridSize": 25,
+    "threshold": 0.4,
+    "dotColor": "#00FF66",
+    "backgroundColor": "#111111",
+    "patternType": "stripes",
+    "colors": ["#00F5FF", "#9B00FF"],
+    "palettes": [
+      {
+        "paletteId": "palette-003",
+        "position": { "x": 0, "y": 0 },
+        "scale": 2.0
+      }
+    ]
+  }
+]
